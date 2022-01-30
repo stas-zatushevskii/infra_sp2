@@ -1,7 +1,10 @@
 #API for YaMdb
 ## Developers
-    - Stas Zatushevskii
+    Stas Zatushevskii
 
+### About    
+    Application Programming Interface for the Yatube project designed on the principle of Django REST Framework
+    
 ### .env
     DB_ENGINE=django.db.backends.postgresql # указываем, что работаем с postgresql
 
